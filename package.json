@@ -10,8 +10,8 @@
     "test": "mocha --compilers js:babel-core/register,styl:mocha-stylus-compiler --require ./test/test_helper.js --recursive ./test",
     "test:watch": "npm run test -- --watch"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Wesley Hall",
+  "license": "MIT",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-cli": "^6.22.2",
