@@ -6,6 +6,6 @@ Checkout this repo, install dependencies, then start the dev server with:
 
   - `npm i`
 
-  - `npm i -g eslint babel-eslint
+  - `npm i -g eslint babel-cli babel-eslint
    eslint-config-es2015 eslint-config-standard eslint-config-standard-react eslint-plugin-promise eslint-plugin-standard eslint-plugin-react eslint`
   - `npm run dev`
